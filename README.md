@@ -1,6 +1,6 @@
 # Python Play Ground
 ## What is this?
-This is where i tried out a lot of codes that i was revising in python. Nothing too fancy. You need any explanation please get in touch with me.
+This is where i tried out a lot of codes that i was revising in python. Nothing too fancy. You need any explanation please get in touch with me. You can find my contact information below.
 
 ## Contact Info
 
