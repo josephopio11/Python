@@ -26,19 +26,17 @@ for student in student_names:
 
 
 
-count = 1
-WHILE count <= 100 DO
-    OUTPUT count
-    count = count + 1 
-ENDWHILE
+# count = 1
+# WHILE count <= 100 DO
+#     OUTPUT count
+#     count = count + 1 
+# ENDWHILE
 
 
-count = 1
-REPEAT
-    OUTPUT count
-    count = count + 1
-UNTIL count = 100
+# count = 1
+# REPEAT
+#     OUTPUT count
+#     count = count + 1
+# UNTIL count = 100
 
 
-
-§
