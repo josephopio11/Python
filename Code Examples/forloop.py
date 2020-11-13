@@ -1,15 +1,11 @@
-# c = list(range(1,100))
-# # print(c)
+################
+###Pseudocode###
+################
 
-# total = 0
+# FOR count ← 1 TO 10
+#     OUTPUT ”FOR loop example”
+#     OUTPUT ”Count: ”, count
+# NEXT count
 
-# for num in c:
-#     if num % 3 == 0 and num % 5 == 0:
-#         print(num)
-#         total += num 
-
-# print(total)        
-
-for i in range(0,12):
-    for j in range(0,i):
-        print(i)
+###List example###
+# student_names = ['Apple', 'Sweet', 'Pie', 'Baker', 'Timba']
