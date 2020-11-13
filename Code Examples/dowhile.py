@@ -1,7 +1,7 @@
-i = 80
+i = 1
 
 while True:
     print(i)
     i += 1
-    if i >72:
+    if i > 72:
         break
